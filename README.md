@@ -1,3 +1,3 @@
 # 3rd-year-project
-ayush 
-abhay
+Ayush 
+Abhay
